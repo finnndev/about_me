@@ -47,17 +47,6 @@
 - Reactive programming with Kotlin Flow and RxDart
 - Performance optimization and benchmarking methodologies
 
-## 📱 Featured Implementations
-
-<div align="center">
-  <a href="https://github.com/YOURUSERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/YOURUSERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=project2&theme=tokyonight" />
-  </a>
-</div>
-
 ## 📫 Professional Networking
 
 <div align="center">
